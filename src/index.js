@@ -1,5 +1,7 @@
 import './index.css';
 import $ from 'jquery';
+import 'normalize.css';
+import api from './api.js';
 import shoppingList from './shopping-list.js';
 import store from './store.js';
 
