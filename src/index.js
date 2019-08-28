@@ -1,9 +1,7 @@
+import './index.css';
 import $ from 'jquery';
 import shoppingList from './shopping-list.js';
 import store from './store.js';
-import api from './api.js';
-
-/* global shoppingList, store, api */
 
 $(document).ready(function() {
   shoppingList.bindEventListeners();

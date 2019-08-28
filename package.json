@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/thinkful-ei-gecko/brock-leon-webpack-project#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1"
   },
   "devDependencies": {
     "css-loader": "^3.2.0",
