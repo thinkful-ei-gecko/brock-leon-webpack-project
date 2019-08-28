@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-gecko/brock-leon-webpack-project/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-gecko/brock-leon-webpack-project#readme"
+  "homepage": "https://github.com/thinkful-ei-gecko/brock-leon-webpack-project#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
